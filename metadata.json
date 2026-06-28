@@ -1,0 +1,6 @@
+{
+  "name": "Empathy Support & Active Listener",
+  "description": "A compassionate, safe active listener and mental clarity companion with guided breathing exercises, supportive reflections, and instant crisis resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
